@@ -1,4 +1,4 @@
-# Trivia app in go
+# Starter Go Project with hot reloading
 
 Starter project for go using docker
 
