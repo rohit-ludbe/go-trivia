@@ -1,14 +1,6 @@
 # Trivia app in go
 
-Docker tutorial using go.
-
-```terminal
-
-  docker compose up // to create  a container
-
-  docker compose run --service-ports web bash // to run a container
-
-```
+Starter project for go using docker
 
 ### create a container for go project
 
