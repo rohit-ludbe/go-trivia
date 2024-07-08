@@ -25,3 +25,11 @@ Starter project for go using docker
 ```terminal
     docker compose build
 ```
+
+### .env
+
+```terminal
+    DB_USER=
+    DB_PASSWORD=
+    DB_NAME=
+```
